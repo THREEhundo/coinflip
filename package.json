@@ -1,0 +1,16 @@
+{
+  "name": "coinflip",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"><a href=\"https://donut-sprinkles.netlify.app/index.html\">Coin Flip</a></h1>\r <h3 align=\"center\">Coinflipping Web App.</h3>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
